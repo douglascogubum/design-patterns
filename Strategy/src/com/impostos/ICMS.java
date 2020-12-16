@@ -1,4 +1,7 @@
-package com.model;
+package com.impostos;
+
+import com.calc.Tax;
+import com.model.Budget;
 
 public class ICMS implements Tax {
 

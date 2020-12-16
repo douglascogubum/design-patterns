@@ -1,4 +1,6 @@
-package com.model;
+package com.calc;
+
+import com.model.Budget;
 
 public class TaxCalculator {
 	
