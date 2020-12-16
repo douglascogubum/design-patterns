@@ -1,0 +1,6 @@
+package com.model;
+
+public class Tax {
+	
+	public double caculator(Orcamento Orcamento);  
+}
